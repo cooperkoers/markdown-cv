@@ -1,91 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Cooper Koers Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Cooper Koers
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="mailto:&#99;&#107;&#53;&#54;&#53;&#56;&#64;&#112;&#114;&#105;&#110;&#99;&#101;&#116;&#111;&#110;&#46;&#101;&#100;&#117;">ck5658@princeton.edu</a>
+| <a href="https://scholar.google.com/citations?user=kD67XNUAAAAJ&hl=en">google scholar</a>
+| <a href="http://github.com/cooperkoers">github/cooperkoers</a>
+| +1 317 697 9176
 </div>
 
+## Overview
 
-## Currently
+Undergraduate Student-Athlete and Bioinformatics Researher @ Princeton University 
 
-Standing on the shoulders of giants
+### Research Scope
 
-### Specialized in
+My research is in the field of bioinformatics, where I am concerned with finding patterns within genetic data – with work spanning from evolutionary genomics to somatic mutation research. I couple quantitative genetics with functional genomics, computational tools, and neural networks.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+### Skills
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Evolutionary Genetics, Somatic Cell Genetics, Genetic Algorithms, Neural Networks, Bioinformatics, Python, R, Java.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022 - present`
+__Princeton University, Princeton, NJ__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Ecology and Evolutionary Biology, Quantitative and Computational Biology
+- Commit 25+ hours weekly to practices, meetings, film analysis, and workouts, games as a member of Varsity Football Team
+- 3.5 GPA
+- Biotechnology Club
+- Quantum Computing Club
 
-- Sizar
+## Research Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Joshua Akey Lab`
+__Princeton Lewis-Sigler Institute for Integrative Genomics__
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+- Conducted research into archaic human DNA SNP distribution across human genome from Neandertal and Denisovan genomic data
+- Explored implications of dN/ds values for somatic mutation data
+- Experimented using deep neural networks to contrive patterns involving high-risk sites for cancer mutations
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+TBD
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: May 2013 --></div>
