@@ -45,9 +45,10 @@ __Joshua Akey Lab at Princeton Lewis-Sigler Institute for Integrative Genomics__
 
 ## Projects
 
-### vep-sim
+`2023-2024`
+__vep-sim__
 
-TBD
+- Variant effect predictor tool to perform statistical tests on simulated datasets
 
 ## Publications
 
