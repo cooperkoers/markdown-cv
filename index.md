@@ -13,7 +13,7 @@ title: Cooper Koers Resume
 
 ## Overview
 
-Undergraduate Student-Athlete and Bioinformatics Researher @ Princeton University 
+Undergraduate Student-Athlete and Bioinformatics Researcher @ Princeton University 
 
 ### Research Scope
 
