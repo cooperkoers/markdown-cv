@@ -28,7 +28,7 @@ Evolutionary Genetics, Somatic Cell Genetics, Genetic Algorithms, Neural Network
 `2022 - present`
 __Princeton University, Princeton, NJ__
 
-- Ecology and Evolutionary Biology, Quantitative and Computational Biology
+- Ecology and Evolutionary Biology, Quantitative and Computational Biology, Computer Science
 - Commit 25+ hours weekly to practices, meetings, film analysis, and workouts, games as a member of Varsity Football Team
 - 3.5 GPA
 - Biotechnology Club
