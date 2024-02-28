@@ -28,7 +28,7 @@ Evolutionary Genetics, Somatic Cell Genetics, Genetic Algorithms, Neural Network
 `2022 - present`
 __Princeton University, Princeton, NJ__
 
-- Ecology and Evolutionary Biology, Quantitative and Computational Biology
+- Ecology and Evolutionary Biology, Quantitative and Computational Biology, Computer Science
 - Commit 25+ hours weekly to practices, meetings, film analysis, and workouts, games as a member of Varsity Football Team
 - 3.5 GPA
 - Biotechnology Club
@@ -40,8 +40,15 @@ __Princeton University, Princeton, NJ__
 __Princeton Lewis-Sigler Institute for Integrative Genomics__
 
 - Conducted research into archaic human DNA SNP distribution across human genome from Neandertal and Denisovan genomic data
-- Explored implications of dN/ds values for somatic mutation data
+- Explored implications of Ka/Ks values for somatic mutation data
+- Developed simulation techniques for Ka/Ks tests involving magnitudes of natural selection
 - Experimented using deep neural networks to contrive patterns involving high-risk sites for cancer mutations
+
+## Projects
+
+__vep-sim__
+
+- TBD
 
 ## Publications
 
