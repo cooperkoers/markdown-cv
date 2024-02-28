@@ -40,7 +40,8 @@ __Princeton University, Princeton, NJ__
 __Joshua Akey Lab at Princeton Lewis-Sigler Institute for Integrative Genomics__
 
 - Conducted research into archaic human DNA SNP distribution across human genome from Neandertal and Denisovan genomic data
-- Explored implications of dN/ds values for somatic mutation data
+- Explored implications of Ka/Ks values for somatic mutation data
+- Developed simulation techniques for Ka/Ks tests involving magnitudes of natural selection
 - Experimented using deep neural networks to contrive patterns involving high-risk sites for cancer mutations
 
 ## Projects
@@ -56,4 +57,4 @@ TBD
 
 <!-- ### Footer
 
-Last updated: May 2013 --></div>
+Last updated: May 2013 -->
