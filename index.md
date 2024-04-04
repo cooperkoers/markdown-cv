@@ -40,7 +40,7 @@ __Princeton University, Princeton, NJ__
 __Joshua Akey Lab at Princeton Lewis-Sigler Institute for Integrative Genomics__
 
 - Conducted research into archaic human DNA SNP distribution across human genome from Neandertal and Denisovan genomic data
-- Explored implications of Ka/Ks values for somatic mutation data
+- Explored implications of Ka/Ks values for somatic mutation data regarding evolutionary pressures
 - Developed simulation techniques for Ka/Ks tests involving magnitudes of natural selection
 - Experimented using deep neural networks to contrive patterns involving high-risk sites for cancer mutations involving noncanonical genes
 
@@ -49,7 +49,13 @@ __Joshua Akey Lab at Princeton Lewis-Sigler Institute for Integrative Genomics__
 `2023-2024`
 __vep-sim__
 
-- Variant effect predictor tool to perform statistical tests on simulated datasets
+- Variant effect predictor command line to to perform statistical tests on simulated datasets
+- [Github](https://github.com/AkeyLab/vep-sim)
+
+`2023`
+__Archaic Human Full-genome SNP Analysis__
+- Investigation into genome-wide SNP trends within various sequenced archaic human samples
+- [Presentation](https://docs.google.com/presentation/d/1wnWx0IGQzac0Zc-VuD_V3nGdQm081o1TTVMd-R4imT8/edit#slide=id.g25bfbb90514_0_1017)
 
 ## Publications
 
