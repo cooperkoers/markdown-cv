@@ -21,7 +21,7 @@ My research is in the field of bioinformatics, where I am concerned with finding
 
 ### Skills
 
-Evolutionary Genetics, Somatic Cell Genetics, Genetic Algorithms, Neural Networks, Bioinformatics, Python, R, Java.
+Evolutionary Genetics, Somatic Cell Genetics, Genetic Algorithms, Neural Networks, Single-Cell RNA-seq, Bioinformatics, Python, R, Java.
 
 ## Education
 
